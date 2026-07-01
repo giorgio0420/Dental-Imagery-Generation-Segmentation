@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 📌 Overview
 
 This project tackles a core challenge in medical imaging: **the scarcity of annotated dental X-ray data**.  
@@ -15,6 +16,8 @@ We address it with a two-stage deep learning pipeline:
 2. **Semantic segmentation** — U-Net and TransUNet models are trained on real data and evaluated on both real and GAN-generated images, testing cross-domain generalization.
 
 The goal is to reduce the **domain gap** between real and synthetic images, and demonstrate that synthetic data can effectively boost segmentation performance.
+
+![Dataset preview — images and masks](gif.gif)
 
 ---
 
