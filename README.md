@@ -149,7 +149,3 @@ Main dependencies: `PyTorch`, `torchvision`, `numpy`, `PIL`, `matplotlib`, `tqdm
 This project was developed for academic purposes. See individual notebook headers for references to third-party code and models used.
 
 ---
-
-<p align="center">
-  Made with ❤️ by <strong>Giorgio De Santis</strong> & <strong>Roberto Passante</strong>
-</p>
